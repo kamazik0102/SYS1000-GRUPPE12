@@ -10,7 +10,7 @@ Group members who participated in the project:
 	-Magnus Bøthun
 
 Prosjektbeskrivelse
-Dette har vært en oppgave i faget Systemutvikling på første året i bachelorutdanningen IT og informasjonssystemer. Hovedfokuset var å dokumentere alt så godt som mulig, samt å kunne planlegge utviklingen av systemet og gjennomføre alle fasene i utviklingsprosessen. Derfor ble det kun utviklet HTML og CSS uten noen backend.
+Dette har vært en oppgave i faget Systemutvikling på første året i bachelorutdanningen IT og informasjonssystemer. Hovedfokuset var å dokumentere alt så godt som mulig, samt å kunne planlegge utviklingen av systemet og gjennomføre alle fasene i utviklingsprosessen. Derfor ble det kun utviklet HTML og CSS uten noen backend. Rapporten finnes i følgende sti: SYS1000-GRUPPE12/Gruppe 12 - Home Rentals rapport.pdf
 
 Dette repositoriet inneholder filer og kildekode for et prosjekt utviklet som en del av SYS1000-kurset. Hovednettstedet for prosjektet finnes i følgende sti:
 
