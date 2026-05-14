@@ -1,13 +1,15 @@
 SYS1000-GRUPPE12
 
 Velkommen til prosjektets GitHub-repositorium for SYS1000-GRUPPE12!
+
 Group members who participated in the project:
-	-Kamilla Nizamova
-	-Jesper Finnsand
-	-Nikita Pushechnikov
-	-Eskild Søndenå
-	-Christoffer Berg
-	-Magnus Bøthun
+
+- Kamilla Nizamova
+- Jesper Finnsand
+- Nikita Pushechnikov
+- Eskild Søndenå
+- Christoffer Berg
+- Magnus Bøthun
 
 Prosjektbeskrivelse
 Dette har vært en oppgave i faget Systemutvikling på første året i bachelorutdanningen IT og informasjonssystemer. Hovedfokuset var å dokumentere alt så godt som mulig, samt å kunne planlegge utviklingen av systemet og gjennomføre alle fasene i utviklingsprosessen. Derfor ble det kun utviklet HTML og CSS uten noen backend. Rapporten finnes i følgende sti: SYS1000-GRUPPE12/Gruppe 12 - Home Rentals rapport.pdf
